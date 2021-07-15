@@ -26,4 +26,9 @@ This Autohotkey script does not write or write anything besides character profil
  6. Find your newly saved profile in the drop down list and Load the profile.
  7. Press start and play some UO.
 
-While mentioned before, it is import to note these are just simple countdown timers.  They do not read any actual game data, so sometimes spells won't be synced up perfectly.  For example, if you are spamming a key it will reset the timer every time.  If you do not use modifiers for keys, bare characters for example, and you type a message with said keybind characters, it will reset the timer.  Once you become a bit more familiar, it will be easier to work around.  The quality of life this brings outweighs the required adjustments.  I plan on solving a few of these problems in future iterations.
+While mentioned before, it is import to note these are just simple countdown timers.  They do not read any actual game data, so sometimes spells won't be synced up perfectly.  For example, if you are spamming a key it will reset the timer every time.  If you do not use modifiers for keys, bare characters for example, and you type a message with said keybind characters, it will reset the timer.  Once you become a bit more familiar, it will be easier to work around.  The quality of life this brings outweighs the required adjustments.
+
+
+##Future Iterations
+
+I plan on adding support for a various number of spells and abilities in the very near future including but not limited to: spell buffs such as bless, healing potions, hamstring, bard buffs, etc.  I also will be doing several complete code overhauls to stream line an incredible amount of bad code.  Stay tuned and feel free to message me with feature requests!
