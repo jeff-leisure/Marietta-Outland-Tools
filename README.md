@@ -42,7 +42,8 @@ While mentioned before, it is import to note these are just simple countdown tim
  
 ## Future Iterations
 
-Several complete code overhauls to stream line an incredible amount of bad code.  Stay tuned and feel free to message me with feature requests!  I will continue to update this fairly regularly until it is flesh out or hopefully replaced by in game client function!
+- Cast Bar
+- Several complete code overhauls to stream line an incredible amount of bad code.  Stay tuned and feel free to message me with feature requests!  I will continue to update this fairly regularly until it is flesh out or hopefully replaced by in game client function.
 
 
 ## Known Bugs
