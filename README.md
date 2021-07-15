@@ -11,7 +11,7 @@ A lightweight but effective cooldown tracker and QOL tool intended for the priva
 
 This script is in its infantile stage.  The code is highly unoptimized so your mileage may vary.  I have it tailored to my specific needs and I do not have any testers or any feedback of significance.  Feel free to message me directly on Discord @ leisure#0001 with any comments, concerns, bugs, etc.  I'll try to get back to you as my schedule permits.
 
-This Autohotkey script does not write or write anything besides character profiles for the script from specific user input.  The default profile [can be viewed here.](https://pastebin.com/gatbSffM)  The script boils down to a user started timers bound to the same key as your Razor or in game bound corresponding keys.  The tracker is just simple always on top, transparent window anchored to the top left hand corner of the specified character.
+This Autohotkey script does not write or write anything besides character profiles for the script from specific user input.  The default profile [can be viewed here.](https://pastebin.com/gatbSffM)  The script boils down to a user started timers bound to the same key as your Razor or in game bound corresponding keys.  The tracker is just simple always on top, transparent window anchored to the top left hand corner of the specified character.  One great thing about AHK is the code is incredibly transparent to verify there is nothing fishy going on here.  I find this tool incredibly helpful and figured I'd share with the class.
 
 ## Requirements and Installation
 
