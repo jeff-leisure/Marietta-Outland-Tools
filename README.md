@@ -13,6 +13,8 @@ This script is in its infantile stage.  The code is highly unoptimized so your m
 
 This Autohotkey script does not write or write anything besides character profiles for the script from specific user input.  The default profile [can be viewed here.](https://pastebin.com/gatbSffM)  The script boils down to a user started timers bound to the same key as your Razor or in game bound corresponding keys.  The tracker is just simple always on top, transparent window anchored to the top left hand corner of the specified character.  One great thing about AHK is the code is incredibly transparent to verify there is nothing fishy going on here.  I find this tool incredibly helpful and figured I'd share with the class.
 
+Also of note, visibility and display mode are currently functionless.
+
 ## Requirements and Installation
 
  1. Autohotkey is required.  [Download it here.](https://www.autohotkey.com/)
