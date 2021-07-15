@@ -9,20 +9,20 @@ A lightweight but effective cooldown tracker and QOL tool intended for the priva
 
 # Current Spell / Action Support
 
--Summons
--Mushroom
--Magic Arrow
--Harm
--Fireball
--Lightning
--Mana Drain
--Curse
--Energy Bolt
--Mass Curse
--Mana Vampire
--Discordance
--Peacemaking
--Provocation
+- Summons
+- Mushroom
+- Magic Arrow
+- Harm
+- Fireball
+- Lightning
+- Mana Drain
+- Curse
+- Energy Bolt
+- Mass Curse
+- Mana Vampire
+- Discordance
+- Peacemaking
+- Provocation
 
 ## Notes and Functionality
 
