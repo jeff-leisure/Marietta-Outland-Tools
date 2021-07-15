@@ -38,6 +38,7 @@ While mentioned before, it is import to note these are just simple countdown tim
  - Excute timer on mouse target click as opposed to hotkey.
  - Font sizing and color
  - Moveable anchor point
+ - Expiration alerts
  
 ## Future Iterations
 
