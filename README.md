@@ -7,6 +7,23 @@
 
 A lightweight but effective cooldown tracker and QOL tool intended for the private Ultima Online server, Outlands.
 
+# Current Spell / Action Support
+
+-Summons
+-Mushroom
+-Magic Arrow
+-Harm
+-Fireball
+-Lightning
+-Mana Drain
+-Curse
+-Energy Bolt
+-Mass Curse
+-Mana Vampire
+-Discordance
+-Peacemaking
+-Provocation
+
 ## Notes and Functionality
 
 This script is in its infantile stage.  The code is highly unoptimized so your mileage may vary.  I have it tailored to my specific needs and I do not have any testers or any feedback of significance.  Feel free to message me directly on Discord @ leisure#0001 with any comments, concerns, bugs, etc.  I'll try to get back to you as my schedule permits.
