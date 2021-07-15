@@ -47,6 +47,28 @@ Also of note, visibility and display mode are currently functionless.
 
 While mentioned before, it is import to note these are just simple countdown timers.  They do not read any actual game data, so sometimes spells won't be synced up perfectly.  For example, if you are spamming a key it will reset the timer every time.  If you do not use modifiers for keys, bare characters for example, and you type a message with said keybind characters, it will reset the timer.  Once you become a bit more familiar, it will be easier to work around.  The quality of life this brings outweighs the required adjustments.
 
+## Razor Macro Examples
+
+Since there is no interaction with the client, some use cases need a bit of tinkering.  Below are a few examples of how I sync my timers and abilities with Razor macros.
+
+Summons
+
+Razor Script Example:
+![](https://i.imgur.com/NezyRym.png)
+
+Since Spirit Stones and Spell stones share the same item type, this will have to be set manually every time you replace your Spirit Stone.  Tip: don't die as much! :stuck_out_tongue_winking_eye:
+
+You can get the serial by typing the in game command ">info".  Clicking the blue button by Serial will copy the serial ID to your clipboard.  Replace the serial ID in your Razor script as needed.
+![enter image description here](https://i.imgur.com/gF7H4YY.png)
+
+Bard Buffs
+
+Razor Macro Example:
+
+A simple razor target relative location macro gets the job done nicely.
+![enter image description here](https://i.imgur.com/8wKQAcO.png)
+
+
 ## Very Near Future
 
  - Bard buffs
