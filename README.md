@@ -30,7 +30,8 @@ Also of note, visibility and display mode are currently functionless.
 
 While mentioned before, it is import to note these are just simple countdown timers.  They do not read any actual game data, so sometimes spells won't be synced up perfectly.  For example, if you are spamming a key it will reset the timer every time.  If you do not use modifiers for keys, bare characters for example, and you type a message with said keybind characters, it will reset the timer.  Once you become a bit more familiar, it will be easier to work around.  The quality of life this brings outweighs the required adjustments.
 
-##Very Near Future
+## Very Near Future
+
  - Bard buffs
  - Potions
  - Hide when UO is not focused
@@ -38,7 +39,7 @@ While mentioned before, it is import to note these are just simple countdown tim
  - Font sizing and color
  - Moveable anchor point
  
-##Future Iterations
+## Future Iterations
 
 Several complete code overhauls to stream line an incredible amount of bad code.  Stay tuned and feel free to message me with feature requests!  I will continue to update this fairly regularly until it is flesh out or hopefully replaced by in game client function!
 
