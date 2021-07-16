@@ -73,11 +73,13 @@ Since there is no interaction with the client, some use cases need a bit of tink
 Summons
 
 Razor Script Example:
+
 ![](https://i.imgur.com/NezyRym.png)
 
 Since Spirit Stones and Spell stones share the same item type, this will have to be set manually every time you replace your Spirit Stone.  Tip: don't die as much! :stuck_out_tongue_winking_eye:
 
 You can get the serial by typing the in game command ">info".  Clicking the blue button by Serial will copy the serial ID to your clipboard.  Replace the serial ID in your Razor script as needed.
+
 ![enter image description here](https://i.imgur.com/gF7H4YY.png)
 
 Bard Buffs
@@ -85,14 +87,13 @@ Bard Buffs
 Razor Macro Example:
 
 A simple razor target relative location macro gets the job done nicely.
+
 ![enter image description here](https://i.imgur.com/8wKQAcO.png)
 
 
 ## Very Near Future
 
- - Bard buffs
  - Potions
- - Hide when UO is not focused
  - Excute timer on mouse target click as opposed to hotkey.
  - Font sizing and color
  - Moveable anchor point
@@ -105,5 +106,3 @@ A simple razor target relative location macro gets the job done nicely.
 
 
 ## Known Bugs
-
-Identified a problem with tracker #7 not properly displaying.
