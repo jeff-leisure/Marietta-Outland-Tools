@@ -11,8 +11,11 @@
  - Decreased font size.
  - The tracker will now autohide when your UO window is not in focus, whether it is minimized or another window is on top.  
  - The tracker will update its anchor position when window is brought back to focus.  This is intended to allow you to move your UO window without having to restart to move the trackers position.
+ - 
   ![enter image description here](https://i.imgur.com/bi3bJ2p.png) 
+  
  -Added a secondary timer for the Summon tracker that counts up  Currently only works if Summon is tracked in the 1st tracking slot.  The intended use to have a rough idea how long your creatures in consideration to Summoner's Tome buffs like Daemon's Growing Fury.  The timer is activated by manually pressing the summon icon and does not reset when the main tracker is triggered.  Manually pressing the icon will reset the mini tracker.  It reports in minutes rounded down and starts at 0.
+
 ![enter image description here](https://i.imgur.com/o9cY6CQ.png)
 
 
